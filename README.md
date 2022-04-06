@@ -1,2 +1,2 @@
 # first-repository
-print('hello, world!')
+"Hello, world!"
